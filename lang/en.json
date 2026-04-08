@@ -1,0 +1,31 @@
+{
+  "GWSE": {
+    "Effects": {
+      "AddAbility": "Add Ability",
+      "AddBoost": "Add Boost",
+      "AddChallenge": "Add Challenge",
+      "AddProficiency": "Add Proficiency",
+      "AddSetback": "Add Setback",
+      "Aiming": "Aiming",
+      "Cover": "Cover",
+      "Afraid": "Afraid",
+      "Blind": "Blind",
+      "Bound": "Bound",
+      "Burning": "Burning",
+      "CriticalWound": "Critical Wound",
+      "Disorientated": "Disorientated",
+      "Engaged": "Engaged",
+      "Prone": "Prone",
+      "Staggered": "Staggered",
+      "Unconscious": "Unconscious",
+      "Suffocating": "Suffocating"
+    },
+    "Settings": {
+      "IconFolder": "Icon Folder Path",
+      "IconFolderHint": "Path to the folder containing status-effect icons. Icons must be named exactly after the effect (e.g. 'Add Boost.png'). Defaults to the module's built-in icons folder. Changes take effect after refreshing the page."
+    },
+    "HUD": {
+      "StackableTooltip": "Left-click: add one stack · Right-click: remove one stack"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+/* Genesys Status Effects – stack-count badge on token HUD icons */
+.gwse-badge {
+  position: absolute;
+  bottom: 1px;
+  right: 1px;
+  min-width: 14px;
+  height: 14px;
+  padding: 0 2px;
+  background: #222;
+  color: #fff;
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 14px;
+  text-align: center;
+  border-radius: 3px;
+  pointer-events: none;
+  z-index: 10;
+}
