@@ -37,11 +37,11 @@ Each left-click adds one stack, right-click removes one stack. All of these, exc
 ## The module comes with custom icons for each status effect
 These can be customized in the Module Settings.
 
-![Example](docs/Effects.png)
+![Example](docs/Statuses.png)
 
 ## Example of dice automation
 
-![Effects](docs/Example.png)
+![Effects](docs/Aiming.png)
 
 ## Disclamer
 
