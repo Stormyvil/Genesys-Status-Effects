@@ -2,8 +2,10 @@
   "id": "genesys-status-effects",
   "title": "Genesys Status Effects",
   "url": "https://github.com/Stormyvil/Genesys-Status-Effects",
+  "manifest":"https://github.com/Stormyvil/Genesys-Status-Effects/releases/download/1.0.1/module.json",
+  "download":"https://github.com/Stormyvil/Genesys-Status-Effects/releases/download/1.0.1/genesys-status-effects.zip",
   "description": "Replaces Foundry's default token status effects with a Genesys appropriate set.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": { 
 	"minimum": "12", 
 	"verified": "13", 
