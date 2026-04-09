@@ -9,7 +9,6 @@ It also connects those statuses directly to the dice pool system, so relevant ef
 - Afraid
 - Blind
 - Bound
-- Burning
 - Critical Wound
 - Disorientated
 - Engaged
