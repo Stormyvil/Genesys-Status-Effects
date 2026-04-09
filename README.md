@@ -48,4 +48,7 @@ These can be customized in the Module Settings.
 Using custom skills such as specific magic types may not trigger automatic dice calcucalation for Cover and or Aiming. 
 Since Genesys is meant to me very modular, I cannot accommodate for all custom skills and have included the basic Ranged (light and heavy), Melee (light and heavy), Gunnery and Brawl as default.
 
+## Credits & Licensing
+
+The icons located in Genesys-Status-Effects/icons are sourced from Game-icons.net and are provided under the CC BY 3.0 license. Individual author attributions can be found in Genesys-Status-Effects/icons/LICENSE-ICONS.md.
 
